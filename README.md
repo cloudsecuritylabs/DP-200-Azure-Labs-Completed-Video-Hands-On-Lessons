@@ -2,7 +2,7 @@
 DP-200-Implementing-an-Azure-Data-Solution. This page contains all of the hands on solutions for DP-200 github lab series.
 
 
-# DP-200-Implementing-an-Azure-Data-Solution
+# DP-200-Implementing-an-Azure-Data-Solution - Link to video: https://youtu.be/1H87wyjm1Gs
 
 
 
