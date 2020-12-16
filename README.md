@@ -10,7 +10,7 @@ DP-200-Implementing-an-Azure-Data-Solution. This page contains all of the hands 
 
 
 
-## Lab 2 - Working with Data Storage
+## Lab 2 - Working with Data Storage -- Link to Hands On video LAB2: https://youtu.be/P-F7RHB6Dn4
 
 
 
